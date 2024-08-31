@@ -37,4 +37,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 
 ## Author
 
-This script was developed by [Your Name].
+This script was developed by [Abdo Mahmoud](https://github.com/Unique-Digital-Resources).
