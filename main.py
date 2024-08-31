@@ -1,3 +1,9 @@
+#Copyright [2024] [Abdo Mahmoud- Unique Digital Resources (https://github.com/Unique-Digital-Resources)]
+
+#   Licensed under the Apache License, Version 2.0 (the "License");
+#   you may not use this file except in compliance with the License.
+#   You may obtain a copy of the License at
+
 import os
 from cairosvg import svg2png
 
