@@ -26,10 +26,10 @@ The following table demonstrates the result of converting icons using different 
 
 | **Color** | **Resulting Icons** |
 |-----------|---------------------|
-| Blue  | ![Blue Icon](path/to/blue_icon.png) |
-| Green  | ![Green Icon](path/to/green_icon.png) |
-| Orange  | ![Orange Icon](path/to/orange_icon.png) |
-| Purple  | ![Purple Icon](path/to/purple_icon.png) |
+| Blue  | ![Blue Icon](icon_examples/blue/account-circle.png) |
+| Green  | ![Green Icon](icon_examples/green/account-circle.png) |
+| Orange  | ![Orange Icon](icon_examples/orange/account-circle.png) |
+| Purple  | ![Purple Icon](icon_examples/purple/account-circle.png) |
 
 ## License
 
